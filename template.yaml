@@ -12,7 +12,7 @@ Outputs:
         Value:
             Ref: Zone
         Export:
-            Name: ThingcloudComAuRoutes:ZoneId
+            Name: ThingCloudComAuRoutes:ZoneId
 Resources:
     Zone:
         DeletionPolicy: Retain
